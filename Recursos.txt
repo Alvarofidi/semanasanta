@@ -1,1 +1,2 @@
-Dia1: Balon de Baloncesto
+Dia1: Pelota de baloncesto
+Dia1: Palas de padel y pelotas
